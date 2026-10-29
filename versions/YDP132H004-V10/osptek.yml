@@ -1,0 +1,10 @@
+id: YDP132H004-V10
+category: displays
+size: "1.32"
+panel: tft
+resolution: 360x360
+interface: [mcu]
+driver: ST77916
+touch: null
+outline: 35.98 x 37.86 x 1.6 mm
+active_area: 33.48 x 33.48 mm

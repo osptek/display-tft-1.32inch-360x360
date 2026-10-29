@@ -1,0 +1,10 @@
+id: YDP132H001-V3
+category: displays
+size: "1.32"
+panel: tft
+resolution: 360x360
+interface: [mipi]
+driver: GC9C01
+touch: null
+outline: 35.98 x 38.54 x 1.56 mm
+active_area: "Φ33.48 mm"
